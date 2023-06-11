@@ -1,0 +1,28 @@
+*::-webkit-scrollbar {
+    width: 4px;
+}
+*::-webkit-scrollbar-thumb {
+    background: #378;
+    border-radius: 100px;
+}
+*::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+
+
+.list {
+    list-style: none;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+.list:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.loader {
+    width: 200px;
+    height: 200px;
+    background: #000;
+}

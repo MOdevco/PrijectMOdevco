@@ -1,0 +1,402 @@
+{
+  "users": [
+    {
+      "name": "Muhammadali",
+      "lastName": "Anvarov",
+      "email": "mali@gmail.com",
+      "password": "mali2205",
+      "id": 1
+    },
+    {
+      "name": "Abdulaziz",
+      "lastName": "Holdorov",
+      "email": "holdorov2005@gmail.com",
+      "password": "abdulaziz2005",
+      "id": 2
+    },
+    {
+      "name": "Abror",
+      "lastName": "Qosimov",
+      "email": "qosimov@gmail.com",
+      "password": "qosim2211",
+      "id": 3
+    },
+    {
+      "name": "Muhammadjamil",
+      "lastName": "Anvarov",
+      "email": "jamilbe04@gmail.com",
+      "password": "jamil3221",
+      "id": 4
+    },
+    {
+      "name": "Abduaziz",
+      "lastName": "Azimov",
+      "email": "azimovabduaziz@gmaill.com",
+      "password": "abduaziz3322",
+      "id": 5
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 6
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 7
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 8
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 9
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 10
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 11
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 12
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 13
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 14
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 15
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 16
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 17
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 18
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 19
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 20
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 21
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 22
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 23
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 24
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 25
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 26
+    },
+    {
+      "name": "Usmonali",
+      "lastName": "Rustamov",
+      "email": "rustamovusmon@gmail.com",
+      "password": "usmoniy192",
+      "id": 27
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": 28
+    }
+  ],
+  "ichimliklar": [
+    {
+      "name": "Fanta",
+      "url": "https://web.lebazar.uz/resources/product/2023/3/5/medium_1680695346345101020102-00001.png",
+      "title": "Judaham Zo'r",
+      "price": 14,
+      "id": 2
+    },
+    {
+      "name": "Spirite",
+      "url": "https://ostrov-shop.by/upload/resize_cache/webp/upload/iblock/132/ck5b25olqysbv6j5lv7o10mssndjv2pd.webp",
+      "title": "Judaham Zo'r",
+      "price": 10,
+      "id": 3
+    },
+    {
+      "name": "Coca-Cola",
+      "url": "https://api.lochin.uz/media/file/image/2021-03/f97bbe8d-63bb-4bab-99af-97c4a99c7be3.jpg.500x500_q85_crop-scale.jpg",
+      "title": "Judaham Zo'r",
+      "price": 12,
+      "id": 4
+    },
+    {
+      "name": "Pepsi",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxnGib4PKNNfUZiX8Pb4n2QoehT7Tgn_SSSJMZTlDhIxe3a0T2DvzCDCsEI0xMfp3Dlw&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 10,
+      "id": 5
+    },
+    {
+      "name": "Fenci",
+      "url": "https://img.vkusvill.ru/pim/images/site_LargeWebP/e856163a-d351-4751-a164-7556141ab420.png?1655903040.4887",
+      "title": "Judaham Zo'r",
+      "price": 4,
+      "id": 6
+    },
+    {
+      "name": "Silver",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZpyTUTCo-pV-0W12jWKRnD_mEYebTV2LDQ&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 3,
+      "id": 7
+    },
+    {
+      "name": "Nestle",
+      "url": "https://dostavo4ka.uz/upload-file/2021/05/05/3164/750x750-6ed6de88-4093-472f-8349-3be5df467245.jpg",
+      "title": "Judaham Zo'r",
+      "price": 4,
+      "id": 8
+    },
+    {
+      "name": "Fanta",
+      "url": "https://web.lebazar.uz/resources/product/2023/3/5/medium_1680695346345101020102-00001.png",
+      "title": "oma vashe zo'rakan",
+      "price": "16",
+      "id": 9
+    }
+  ],
+  "shirinlilar": [
+    {
+      "name": "Praga ",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtBUiuzrrNpdaUaSu0JMChF610OmAJ8D8oFMzoNTRqbAQ-1bjXc1MDRASwTS70N9wTrk&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "Iriska",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8qNdjdJqnobpUJ00gzocCtQtSpmKhkHyOPLRT_O-Gven6I45l_CoSR---m-nwdOUUZHs&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 140,
+      "id": 2
+    },
+    {
+      "name": "Premiyum",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrVcVDZ6xvn3wEWg6Weq6amROwtdCYRzqWGpSF8kcHXerb59kuumCnRdi9u4fVXhJ_Jcg&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 100,
+      "id": 3
+    },
+    {
+      "name": "Pink moyet",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzKoEFoEvGgcRTZcsR7rOnOXA1hIQJzKz3k4ZSNF5v_brg9-XW8ewq5h1OfzNJwInSH5E&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 120,
+      "id": 4
+    },
+    {
+      "name": "Iriska",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCNA6dYC3k4h9BkSTYLOg5V5MaED_FrlOSWtjkb5AlSdYRcC_B_6n-CTfwG-kUJry_PM&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 100,
+      "id": 5
+    },
+    {
+      "name": "Ploski",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZS3U-IkNupqG4AAzGlQ2QOjlDP1G8Ua-D5Q3tNXX5zIahxiPRte_4z0MBsazM4hpa7K4&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 40,
+      "id": 6
+    },
+    {
+      "name": "Groma",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4k8Gfv0EodhoXQ0-SvhJku2w-_hodJPIWB6jaN2ytRSkHD-KA6AerariHDFvt0u0zcqI&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 30,
+      "id": 7
+    },
+    {
+      "name": "White",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ90qvO4RzSzxDGv7z0jaLgab2oR4myrZ3hHNx_O1v9mrCLWZ1omd6tqEK6o-MEZANiaXE&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 40,
+      "id": 8
+    },
+    {
+      "name": "Koroleva",
+      "url": "https://safiabakery.uz/uploads/products/thumbs/171_1672059719.png",
+      "title": "Judaham Zo'r",
+      "price": 700,
+      "id": 9
+    },
+    {
+      "name": "Cars is",
+      "url": "https://safiabakery.uz/uploads/products/thumbs/171_1669988133.png",
+      "title": "Judaham Zo'r",
+      "price": 100,
+      "id": 10
+    }
+  ],
+  "salatlar": [
+    {
+      "name": "Sorbolar",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmtQV9EmsEJ32Qfs8eS-dTnJh1aeOdJDS9fw&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 10,
+      "id": 1
+    },
+    {
+      "name": "Supi",
+      "url": "https://static1.s123-cdn-static-a.com/uploads/112640/800_580f395613971.jpg",
+      "title": "Judaham Zo'r",
+      "price": 14,
+      "id": 2
+    },
+    {
+      "name": "Burito",
+      "url": "https://static1.s123-cdn-static-a.com/uploads/112640/800_580f3d820f43d.jpg",
+      "title": "Judaham Zo'r",
+      "price": 10,
+      "id": 3
+    },
+    {
+      "name": "Kmanda",
+      "url": "https://static1.s123-cdn-static-a.com/uploads/112640/800_580f92c919a14.jpg",
+      "title": "Judaham Zo'r",
+      "price": 12,
+      "id": 4
+    },
+    {
+      "name": "Shmara",
+      "url": "https://web.lebazar.uz/resources/product/2022/3/25/small_1650875389840IMG_1803%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+      "title": "Judaham Zo'r",
+      "price": 10,
+      "id": 5
+    },
+    {
+      "name": "Komanda",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsz2OM8VGF7acpj7CZc3x9ahd05hiZ2ruAwo63n4N-ej2VPJe06pIX2ja4M5IB0pgzpg4&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 4,
+      "id": 6
+    },
+    {
+      "name": "Gumara",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7nytfBOb5qdDl11KC6TQcu3bQiXXsGxeIoCItbuiW-EGQln4-fBCSIzF9AbxiRFErjBo&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 3,
+      "id": 7
+    },
+    {
+      "name": "One best",
+      "url": "https://img2.zakaz.ua/upload.version_1.0.848b4a32e807b08d4b233be1eca103a4.350x350.jpeg",
+      "title": "Judaham Zo'r",
+      "price": 4,
+      "id": 8
+    },
+    {
+      "name": "Qizilcha",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMJYkYQqHdunL_KkIQiM6HmhSDnzxtranYqpruotcmfF2rhCX8Z4VQTD4wwYipc4yLEI&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 7,
+      "id": 9
+    },
+    {
+      "name": "Varus",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3EX0Ntb_SkT6SH-YlMMdtB5dK9FAZ2Gop2Mub9TXVnTeE_crKrwLUtypRnY9cUNYGBCA&usqp=CAU",
+      "title": "Judaham Zo'r",
+      "price": 10,
+      "id": 10
+    }
+  ]
+}
